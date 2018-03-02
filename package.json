@@ -1,6 +1,6 @@
 {
   "name": "monoame-softscroll",
-  "version": "1.0.0",
+  "version": "1.0.113",
   "description": "soft scrolling for all place in website",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "page"
   ],
   "author": "frank890417",
-  "license": "ISC"
+  "license": "ISC",
+  "peerDependencies": {
+    "jquery": ">=1.8.0",
+    "gsap": ">=1.20.4"
+  }
 }
