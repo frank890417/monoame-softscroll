@@ -1,0 +1,16 @@
+{
+  "name": "monoame-softscroll",
+  "version": "1.0.0",
+  "description": "soft scrolling for all place in website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "soft",
+    "scroll",
+    "page"
+  ],
+  "author": "frank890417",
+  "license": "ISC"
+}
